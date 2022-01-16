@@ -1,4 +1,4 @@
-# The Great Firewall of Santa Cruz: Bloom Filters, Linked Lists, Binary Trees and Hash Tables
+# The Great Firewall of Santa Cruz
 This is an assignment for CSE13S in Fall 2021. Please do not use the code for any class assignments. This is a program that read the input from the user and tries to catch the old and bad word from the user input. It uses the bloom filter and hash table to contain the oldspeak and newspeak which are given in two files. The program compares the user input with the given list and output a message that tells the user about what word they need to change.
 
 ## Building
